@@ -23,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0015-3sum) |
 | [0134-gas-station](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0217-contains-duplicate) |
 ## Greedy
 |  |
 | ------- |
