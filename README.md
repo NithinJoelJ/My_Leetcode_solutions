@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0125-valid-palindrome) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
@@ -28,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
