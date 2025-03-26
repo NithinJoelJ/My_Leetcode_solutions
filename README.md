@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0015-3sum) |
+| [0134-gas-station](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0134-gas-station) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0015-3sum) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
