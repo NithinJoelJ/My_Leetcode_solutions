@@ -29,4 +29,3 @@ class Solution:
                     while nums[r]==nums[r+1] and l<r:
                         r-=1
         return result
-
