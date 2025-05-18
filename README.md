@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0344-reverse-string) |
 ## Array
