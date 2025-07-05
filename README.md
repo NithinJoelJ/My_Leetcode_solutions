@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1791-richest-customer-wealth](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
