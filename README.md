@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0134-gas-station](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0242-valid-anagram) |
 ## Binary Search
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -111,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0054-spiral-matrix) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
