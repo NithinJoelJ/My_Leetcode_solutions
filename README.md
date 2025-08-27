@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
 | ------- |
