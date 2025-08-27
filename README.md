@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0125-valid-palindrome) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0242-valid-anagram) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0007-reverse-integer](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Sorting
 |  |
