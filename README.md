@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0392-is-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
