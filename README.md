@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0088-merge-sorted-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0134-gas-station) |
