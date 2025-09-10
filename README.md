@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1791-richest-customer-wealth](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/1791-richest-customer-wealth) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0274-h-index) |
 | [1019-squares-of-a-sorted-array](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
