@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0392-is-subsequence) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0135-candy](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0283-move-zeroes) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0189-rotate-array) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Sorting
 |  |
