@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0061-rotate-list](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0061-rotate-list) |
+| [0143-reorder-list](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0328-odd-even-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -162,5 +165,6 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
