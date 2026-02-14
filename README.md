@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
@@ -173,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
