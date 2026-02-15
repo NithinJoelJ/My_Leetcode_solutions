@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0392-is-subsequence) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Sorting
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |
