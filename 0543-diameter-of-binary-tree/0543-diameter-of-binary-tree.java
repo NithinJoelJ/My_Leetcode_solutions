@@ -20,7 +20,7 @@ class Solution {
        if(last==0){
         return 0;
        }
-       return last-1;
+       return last;
     }
     
     public int diameter(TreeNode root){
@@ -31,7 +31,7 @@ class Solution {
         int left = diameter(root.left);
         int right = diameter(root.right);
 
-        last = Math.max(last, left+right+1);
+        last = Math.max(last, left+right);
         return Math.max(left,right)+1;
     }
 }
