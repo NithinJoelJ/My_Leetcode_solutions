@@ -127,10 +127,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0100-same-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0100-same-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0100-same-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/NithinJoelJ/My_Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Linked List
 |  |
 | ------- |
