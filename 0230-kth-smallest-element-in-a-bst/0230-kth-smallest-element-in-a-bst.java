@@ -21,20 +21,21 @@ class Solution {
         }
         ksmall(root);
 
-        return getthesmall(list, k);
+        // return getthesmall(list, k);
+        return list.get(k-1);
     }
 
     public void ksmall(TreeNode root){
         if(root==null){
             return;
         }
-        list.add(root.val);
         ksmall(root.left);
+        list.add(root.val);
         ksmall(root.right);
     }
 
-    public int getthesmall(List<Integer> list, int k){
-        Collections.sort(list);
-        return list.get(k-1);
-    }
+    // public int getthesmall(List<Integer> list, int k){
+    //     Collections.sort(list);
+    //     return list.get(k-1);
+    // }
 }
